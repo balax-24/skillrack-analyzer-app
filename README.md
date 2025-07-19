@@ -32,7 +32,7 @@ Supports viewing DC/DT scores, CodeTrack ranks, medals, and more — even offlin
 
 ## 📦 APK Download
 
-👉 [Download the Latest APK](https://github.com/your-username/SkillRackAnalyzer/releases)  
+👉 [Download the Latest APK](https://github.com/balax-24/skillrack-analyzer-app/releases/tag/skillrack-analyzer-apk)  
 
 
 ## 📃 Notes
