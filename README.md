@@ -45,7 +45,7 @@ Supports viewing DC/DT scores, CodeTrack ranks, medals, and more — even offlin
 
 ## 👤 Author
 
-<p align="center"><strong>Balaharish</strong></p>[Balaharish](https://balaharish.netlify.app)</strong></p>
+<p align="center"><strong>[Balaharish](https://balaharish.netlify.app)</strong></p>
 <p align="center">🔗 GitHub: [Balax-24](https://github.com/balax-24)</p>
 
 ---
