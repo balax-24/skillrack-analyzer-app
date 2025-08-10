@@ -1,4 +1,5 @@
 {
   "latestVersion": "1.1.0",
-  "updateUrl": "https://github.com/balax-24/SkillRackApp/releases/download/v1.0.0/app-release.apk"
+  "updateUrl": "https://github.com/balax-24/SkillRackApp/releases/download/v1.1.0/app-release.apk",
+  "changes": "New version includes:\n- Bug fixes and performance improvements.\n- Added Google Signin."
 }
