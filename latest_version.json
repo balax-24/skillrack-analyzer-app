@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.1.0",
-  "updateUrl": "https://github.com/balax-24/skillrack-analyzer-app/releases/download/skillrack-analyzer-apk/SkillRack.Analyzer.v2.1.apk",
-  "changes": "New version includes:\n- Bug fixes and performance improvements.\n- Added Guide Section."
+  "latestVersion": "3.2.0",
+  "updateUrl": "https://github.com/balax-24/skillrack-analyzer-app/releases/download/skillrack-analyzer-apk/SkillRack.Analyzer.v3.2.apk",
+  "changes": "New version includes:\n- Bug fixes and performance improvements.\n- Added List Reordering."
 }
